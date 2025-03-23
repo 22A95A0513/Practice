@@ -13,3 +13,5 @@ Edit3 from Sub
 >>>>>>> sub
 
 New change from sub2
+
+Changing-sub2
