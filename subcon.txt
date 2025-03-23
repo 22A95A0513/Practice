@@ -12,4 +12,6 @@ Edit2 from Sub
 Edit3 from Sub
 >>>>>>> sub
 
-New change from sub2
+New change from sub
+
+Changing-sub
