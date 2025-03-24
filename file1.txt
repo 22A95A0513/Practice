@@ -1,2 +1,4 @@
 Hi
 Info from Practice Repo
+
+Here adding info. from sub1 branch at same line
