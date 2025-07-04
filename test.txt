@@ -3,10 +3,10 @@ Hi
 Content from main branch at line 3
 
 Content from sub1 branch at line 5
->>>>>>
 
 
 Messing here, from main -- Hehe
 
 
 Some random line at end by main
+Hey I'm here from sub2
