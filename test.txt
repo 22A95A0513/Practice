@@ -2,4 +2,5 @@ Hi
 
 Content from main branch at line 3
 
-Content from main branch at line 5, messing here
+Content from sub1 branch at line 5
+>>>>>>
